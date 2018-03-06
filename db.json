@@ -1,4 +1,13 @@
 {
+  "manhours": [
+    { "value": 232, "label": "Management" },
+    { "value": 512, "label": "Site Staff" },
+    { "value": 124, "label": "MOL Direct" },
+    { "value": 349, "label": "MOL S/C Support" },
+    { "value": 290, "label": "Site Supervision" },
+    { "value": 315, "label": "Office Staff" },
+    { "value": 220, "label": "MOL Indirect" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
@@ -11,4 +20,5 @@
   "profile": {
     "name": "typicode"
   }
+  
 }
