@@ -10,19 +10,65 @@
   ],
   "span-control": [
     {
-      "designationGroup": "Seaction Head",
+      "designationGroup": "Section Head",
       "designations":
       [	
-        { "name": "", "value": -1 }
+        { "name": "", "budget": , "value": -1 }
       ]
     },
    {
       "designationGroup": "Foreman",
       "designations": [
-        { "name": "General", "value": 7 },
-        { "name":"Trade", "value": 14}
+        { "name": "General", "budget": , "value": 7 },
+        { "name":"Trade", "budget": , "value": 14}
       ]
-   }   
+   },
+    {
+      "designationGroup": "Gang Leader",
+      "designations": [
+        { "name": "", "budget": , "value": 28 }
+      ]
+   },
+    {
+      "designationGroup": "Worker",
+      "designations": [
+        { "name": "DIR", "budget": , "value": 319 },
+        { "name": "IND", "budget": , "value": 27}
+      ]
+   },
+    {
+      "designationGroup": "Worker Gang Leader Ratio",
+      "designations": [
+        { "name": "", "budget": 9.0, "value": 11.4 }
+      ]
+   },    
+    
+    {
+      "designationGroup": "Worker General FM Ratio",
+      "designations": [
+        { "name": "", "budget": 3.0, "value": 2.0 }
+      ]
+   },
+    {
+      "designationGroup": "Worker Foreman Ratio",
+      "designations": [
+        { "name": "", "budget": 20.0, "value": 26.7 }
+      ]
+   },
+    
+    {
+      "designationGroup": "Worker General FM Ratio",
+      "designations": [
+        { "name": "", "budget": 60, "value": 53.4 }
+      ]
+   },
+    
+    {
+      "designationGroup": "Worker Section Head Ratio",
+      "designations": [
+        { "name": "", "budget": 120.0, "value": -374.0 }
+      ]
+   },
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
