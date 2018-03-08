@@ -8,16 +8,17 @@
     { "value": 315, "label": "Office Staff" },
     { "value": 220, "label": "MOL Indirect" }
   ],
-  "span-control":[
+  "span-control": [
     {
       "designation-group": "Seaction Head",
+      "designations":
       [	
         "designation": { "name": "", "value": -1 }
       ]
     },
    {
       "designation-group": "Foreman",
-      [
+      "designations": [
         "designation": { "name": "General", "value": 7 },
         "designation": { "name":"Trade", "value": 14}
       ]
