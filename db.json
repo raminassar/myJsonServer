@@ -68,7 +68,7 @@
       "designations": [
         { "name": "", "budget": 120.0, "value": -374.0 }
       ]
-   },
+   }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
