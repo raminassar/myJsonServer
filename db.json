@@ -12,24 +12,16 @@
     {
       "designation-group": "Seaction Head",
       [	
-        "designation": {
-          "name":"",
-          "value": -1
-		}
-      ]},
-	  {
-      "designation-group": "Foreman"
-      [
-        "designation": {
-          "name":"General",
-          "value": 7
-        },
-         "designation": {
-          "name":"Trade",
-          "value": 14
-        }
+        "designation": { "name": "", "value": -1 }
       ]
-	  },    
+    },
+   {
+      "designation-group": "Foreman",
+      [
+        "designation": { "name": "General", "value": 7 },
+        "designation": { "name":"Trade", "value": 14}
+      ]
+   },    
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
