@@ -13,14 +13,14 @@
       "designation-group": "Seaction Head",
       "designations":
       [	
-        "designation": { "name": "", "value": -1 }
+        { "name": "", "value": -1 }
       ]
     },
    {
       "designation-group": "Foreman",
       "designations": [
-        "designation": { "name": "General", "value": 7 },
-        "designation": { "name":"Trade", "value": 14}
+        { "name": "General", "value": 7 },
+        { "name":"Trade", "value": 14}
       ]
    },    
   ],
