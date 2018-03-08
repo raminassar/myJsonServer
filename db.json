@@ -22,7 +22,7 @@
         { "name": "General", "value": 7 },
         { "name":"Trade", "value": 14}
       ]
-   },    
+   }   
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
