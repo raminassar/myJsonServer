@@ -13,27 +13,27 @@
       "designationGroup": "Section Head",
       "designations":
       [	
-        { "name": "", "budget": , "value": -1 }
+        { "name": "", "budget": "", "value": -1 }
       ]
     },
    {
       "designationGroup": "Foreman",
       "designations": [
-        { "name": "General", "budget": , "value": 7 },
-        { "name":"Trade", "budget": , "value": 14}
+        { "name": "General", "budget": "", "value": 7 },
+        { "name":"Trade", "budget": "", "value": 14}
       ]
    },
     {
       "designationGroup": "Gang Leader",
       "designations": [
-        { "name": "", "budget": , "value": 28 }
+        { "name": "", "budget": "", "value": 28 }
       ]
    },
     {
       "designationGroup": "Worker",
       "designations": [
-        { "name": "DIR", "budget": , "value": 319 },
-        { "name": "IND", "budget": , "value": 27}
+        { "name": "DIR", "budget": "", "value": 319 },
+        { "name": "IND", "budget": "", "value": 27}
       ]
    },
     {
