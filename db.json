@@ -10,15 +10,15 @@
   ],
   "span-control":[
     {
-      "designation-group": "Seaction Head"
-      {
+      "designation-group": "Seaction Head",
+      [	
         "designation": {
           "name":"",
           "value": -1
-        }
-      },
+		}
+      ],
       "designation-group": "Foreman"
-      {
+      [
         "designation": {
           "name":"General",
           "value": 7
@@ -27,7 +27,7 @@
           "name":"Trade",
           "value": 14
         }
-      }
+      ]
     }
   ],
   "posts": [
