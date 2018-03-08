@@ -10,14 +10,14 @@
   ],
   "span-control": [
     {
-      "designation-group": "Seaction Head",
+      "designationGroup": "Seaction Head",
       "designations":
       [	
         { "name": "", "value": -1 }
       ]
     },
    {
-      "designation-group": "Foreman",
+      "designationGroup": "Foreman",
       "designations": [
         { "name": "General", "value": 7 },
         { "name":"Trade", "value": 14}
