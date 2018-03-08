@@ -10,7 +10,7 @@
     { "value": 159, "label": "8. HSE" },
     { "value": 81, "label": "9. Survey" },
     { "value": 64, "label": "10. Weather" },
-    { "value": 1885, "label": "11. Re-work" },
+    { "value": 1885, "label": "11. Re-work" }
   ],
   "weeklyDelays": [
     { "value": 0, "label": "1. Materials" },
@@ -23,7 +23,7 @@
     { "value": 0, "label": "8. HSE" },
     { "value": 0, "label": "9. Survey" },
     { "value": 0, "label": "10. Weather" },
-    { "value": 18, "label": "11. Re-work" },
+    { "value": 18, "label": "11. Re-work" }
   ],
   "manhours": [
     { "value": 232, "label": "Management" },
